@@ -1,0 +1,21 @@
+@model bibliotek.Models.Book
+
+@{
+    // Sätter titeln för vyn som kommer att visas i webbläsarens titelrad
+    ViewData["Title"] = "Lägg till en ny bok";
+}
+
+<!-- Visar titeln som definieras i ViewData -->
+<h2>@ViewData["Title"]</h2>
+
+<!-- Formulär för att skapa en ny bok -->
+<form asp-action="Create" method="post">
+    <!-- Renderar delvyn "_BookForm" och skickar med den aktuella modellen (Book) -->
+    @Html.Partial("_BookForm", Model)
+
+    <!-- Skickar en knapp för att lägga till boken -->
+    <button type="submit" class="btn btn-primary">Lägg till bok</button>
+</form>
+
+<!-- Länk för att gå tillbaka till boklistan -->
+<a href="/Books/Index">Tillbaka</a>

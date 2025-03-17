@@ -1,0 +1,65 @@
+@model List<bibliotek.Models.Book>
+
+@{
+    // Sätter titeln för vyn som kommer att visas i webbläsarens titelrad
+    ViewData["Title"] = "Boklista";
+}
+
+
+    <!-- Cookie-popup som visas för användaren när de besöker webbplatsen -->
+    <div id="cookiePopup" class="cookie-popup" style="display:none;">
+        <p>Denna webbplats använder cookies för att förbättra din upplevelse. <a href="#">Läs mer</a>.</p>
+        <button onclick="acceptCookies()">Acceptera</button>
+    </div>
+
+    <!-- Visar rubriken för boklistan och antal böcker -->
+    <h2>Boklista (Antal: @ViewBag.BookCount)</h2>
+
+    <!-- Skapar en tabell som listar alla böcker -->
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Titel</th>
+                <th>Författare</th>
+                <th>Utgivningsår</th>
+                <th>Genre</th> 
+                <th>Favorit</th>
+                <th>Läst</th>
+                <th>Åtgärder</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <!-- Visar bokens titel -->
+                    <td>@book.Title</td>
+                    <!-- Visar bokens författare -->
+                    <td>@book.Author</td>
+                    <!-- Visar bokens utgivningsår -->
+                    <td>@book.Year</td>
+                    <!-- Visar bokens genre -->
+                    <td>@book.Genre</td>
+                    <!-- Visar om boken är en favorit -->
+                    <td>@book.IsFavorite</td>
+                    <!-- Visar om boken är läst -->
+                    <td>@book.IsRead</td>
+
+                    <!-- Åtgärder för varje bok: Redigera och Ta bort -->
+                    <td>
+                        <!-- Redigera-knapp, som skickar användaren till redigeringssidan -->
+                        <form method="get" action="@Url.Action("Edit", "Books", new { id = book.Id })" style="display:inline;">
+                            <button type="submit" class="btn btn-primary">Redigera</button>
+                        </form>
+
+                        <!-- Ta bort-knapp, som tar bort boken från listan -->
+                        <form method="post" action="/Books/Delete/@book.Id" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Ta bort</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <!-- Footer -->
+    @Html.Partial("_Footer")

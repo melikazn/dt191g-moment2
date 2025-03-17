@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "Esku/cB93pAGlT6Olmgew78JFgDv8Hkc58R9hMxZF8E=",
+  "Source": "bibliotek",
+  "BasePath": "_content/bibliotek",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "bibliotek/wwwroot",
+      "Source": "bibliotek",
+      "ContentRoot": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/",
+      "BasePath": "_content/bibliotek",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/fjse937a1j-1l8rpmsx2f.gz",
+      "SourceId": "bibliotek",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/bibliotek",
+      "RelativePath": "css/main#[.{fingerprint=1l8rpmsx2f}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/css/main.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3wssmvmpj5",
+      "Integrity": "vSz3mV0Mon+0u5QZBXyj2ujftthKHpNHBDO3u3KKxpk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/css/main.css"
+    },
+    {
+      "Identity": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/n0yuoflqv0-43kz8abrq5.gz",
+      "SourceId": "bibliotek",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/bibliotek",
+      "RelativePath": "js/main#[.{fingerprint=43kz8abrq5}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x69sd865pr",
+      "Integrity": "iQqtT7ur0r4uZoMgz3GXJHx9oraLhOjiYyg1W4Zyxis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/main.js"
+    },
+    {
+      "Identity": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/tyj63lgs9w-jptroj421q.gz",
+      "SourceId": "bibliotek",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/bibliotek",
+      "RelativePath": "js/cookie#[.{fingerprint=jptroj421q}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/cookie.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yyk1cdwh0o",
+      "Integrity": "akBTRzM6wxNQ9OcXb56gSyw74kw97kZ57ky5DCN4HqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/cookie.js"
+    },
+    {
+      "Identity": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/css/main.css",
+      "SourceId": "bibliotek",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/",
+      "BasePath": "_content/bibliotek",
+      "RelativePath": "css/main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1l8rpmsx2f",
+      "Integrity": "NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/main.css"
+    },
+    {
+      "Identity": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/cookie.js",
+      "SourceId": "bibliotek",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/",
+      "BasePath": "_content/bibliotek",
+      "RelativePath": "js/cookie#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jptroj421q",
+      "Integrity": "2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/cookie.js"
+    },
+    {
+      "Identity": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/main.js",
+      "SourceId": "bibliotek",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/",
+      "BasePath": "_content/bibliotek",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "43kz8abrq5",
+      "Integrity": "cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/main.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/main.1l8rpmsx2f.css",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/fjse937a1j-1l8rpmsx2f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001385041551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "721"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSz3mV0Mon+0u5QZBXyj2ujftthKHpNHBDO3u3KKxpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:23:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1l8rpmsx2f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.1l8rpmsx2f.css",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/css/main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:23:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1l8rpmsx2f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.1l8rpmsx2f.css.gz",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/fjse937a1j-1l8rpmsx2f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSz3mV0Mon+0u5QZBXyj2ujftthKHpNHBDO3u3KKxpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:23:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1l8rpmsx2f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vSz3mV0Mon+0u5QZBXyj2ujftthKHpNHBDO3u3KKxpk="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.css",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/fjse937a1j-1l8rpmsx2f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001385041551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "721"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSz3mV0Mon+0u5QZBXyj2ujftthKHpNHBDO3u3KKxpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:23:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.css",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/css/main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:23:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NTXoBTAmamN+zHQvrnNt59mQPxDMxj8SSpWCIRmwjQI="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.css.gz",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/fjse937a1j-1l8rpmsx2f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSz3mV0Mon+0u5QZBXyj2ujftthKHpNHBDO3u3KKxpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:23:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vSz3mV0Mon+0u5QZBXyj2ujftthKHpNHBDO3u3KKxpk="
+        }
+      ]
+    },
+    {
+      "Route": "js/cookie.jptroj421q.js",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/tyj63lgs9w-jptroj421q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002469135802"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"akBTRzM6wxNQ9OcXb56gSyw74kw97kZ57ky5DCN4HqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:25:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jptroj421q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/cookie.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/cookie.jptroj421q.js",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/cookie.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:25:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jptroj421q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/cookie.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/cookie.jptroj421q.js.gz",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/tyj63lgs9w-jptroj421q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"akBTRzM6wxNQ9OcXb56gSyw74kw97kZ57ky5DCN4HqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:25:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jptroj421q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/cookie.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-akBTRzM6wxNQ9OcXb56gSyw74kw97kZ57ky5DCN4HqA="
+        }
+      ]
+    },
+    {
+      "Route": "js/cookie.js",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/tyj63lgs9w-jptroj421q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002469135802"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"akBTRzM6wxNQ9OcXb56gSyw74kw97kZ57ky5DCN4HqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:25:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/cookie.js",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/cookie.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:25:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2SzpWqIFBBe/O04Sl6lt/J9iF/c9qS9hKJYhG95Xlk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/cookie.js.gz",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/tyj63lgs9w-jptroj421q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"akBTRzM6wxNQ9OcXb56gSyw74kw97kZ57ky5DCN4HqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:25:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-akBTRzM6wxNQ9OcXb56gSyw74kw97kZ57ky5DCN4HqA="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.43kz8abrq5.js",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/n0yuoflqv0-43kz8abrq5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002450980392"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iQqtT7ur0r4uZoMgz3GXJHx9oraLhOjiYyg1W4Zyxis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:27:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43kz8abrq5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.43kz8abrq5.js",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:27:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43kz8abrq5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.43kz8abrq5.js.gz",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/n0yuoflqv0-43kz8abrq5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iQqtT7ur0r4uZoMgz3GXJHx9oraLhOjiYyg1W4Zyxis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:27:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43kz8abrq5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iQqtT7ur0r4uZoMgz3GXJHx9oraLhOjiYyg1W4Zyxis="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/n0yuoflqv0-43kz8abrq5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002450980392"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iQqtT7ur0r4uZoMgz3GXJHx9oraLhOjiYyg1W4Zyxis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:27:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:27:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cDCVACA5wS4etSEQKEI2UjMzq538T2rKfnPbAG/33bU="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js.gz",
+      "AssetFile": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/obj/Debug/net9.0/compressed/n0yuoflqv0-43kz8abrq5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iQqtT7ur0r4uZoMgz3GXJHx9oraLhOjiYyg1W4Zyxis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 09:27:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iQqtT7ur0r4uZoMgz3GXJHx9oraLhOjiYyg1W4Zyxis="
+        }
+      ]
+    }
+  ]
+}

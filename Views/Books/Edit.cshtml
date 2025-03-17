@@ -1,0 +1,21 @@
+@model bibliotek.Models.Book
+
+@{
+    // Sätter titeln för vyn som kommer att visas i webbläsarens titelrad
+    ViewData["Title"] = "Redigera bok";
+}
+
+<!-- Visar titeln som definieras i ViewData -->
+<h2>@ViewData["Title"]</h2>
+
+<!-- Formulär för att redigera en bok -->
+<form method="post">
+    <!-- Renderar delvyn "_BookForm" och skickar med den aktuella modellen (Book) för att fylla i formuläret -->
+    @Html.Partial("_BookForm", Model)
+
+    <!-- Skickar en knapp för att spara ändringarna -->
+    <button type="submit" class="btn btn-success">Spara ändringar</button>
+</form>
+
+<!-- Länk för att gå tillbaka till boklistan -->
+<a href="/Books/Index">Tillbaka</a>

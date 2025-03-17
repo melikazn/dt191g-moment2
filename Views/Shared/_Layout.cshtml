@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/main.css">
+
+    <script src="~/js/main.js"></script>
+    <script src="~/js/cookie.js"></script>
+    <!-- Sätter sidans titel dynamiskt baserat på ViewData["Title"] -->
+    <title>@ViewData["Title"]</title>
+
+<!-- Laddar externa jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+</head>
+<body>
+    <!-- Header-sektionen innehåller sidans huvudrubrik och navigeringsmeny -->
+    <header>
+        <div class="container">
+            <h1>ASP .NET container mvc</h1>
+            @Html.Partial("_Navigation")
+
+        </div>
+    </header>
+
+<!-- Huvudsektionen där innehållet för varje vy kommer att renderas -->
+    <div class="container">
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+</body>
+</html>

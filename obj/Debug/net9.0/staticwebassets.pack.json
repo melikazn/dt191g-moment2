@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/cookie.js",
+      "PackagePath": "staticwebassets/js/cookie.js"
+    },
+    {
+      "Id": "/Users/melikazolfagharian/Desktop/dt191g/bibliotek/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.bibliotek.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.bibliotek.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.bibliotek.props",
+      "PackagePath": "build\\bibliotek.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.bibliotek.props",
+      "PackagePath": "buildMultiTargeting\\bibliotek.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.bibliotek.props",
+      "PackagePath": "buildTransitive\\bibliotek.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

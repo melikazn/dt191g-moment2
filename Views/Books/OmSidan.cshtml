@@ -1,0 +1,34 @@
+@model bibliotek.Models.Book
+@{
+    // Sätter titeln för vyn som kommer att visas i webbläsarens titelrad
+    ViewData["Title"] = "Om Sidan";
+}
+
+<!-- Rubrik för sidan -->
+<h2>Om denna applikation</h2>
+
+<!-- Visar information om applikationen, hämtad från ViewData -->
+<p>@ViewData["AppInfo"]</p>
+
+<!-- Rubrik för teknologier som används i applikationen -->
+<h3>Teknologier</h3>
+
+<!-- Skapar en lista över teknologier från ViewData, där "Technologies" är en array av strängar -->
+<ul>
+    @foreach (var tech in ViewData["Technologies"] as string[])
+    {
+        <li>@tech</li>
+    }
+</ul>
+
+<!-- Rubrik för funktionaliteten i applikationen -->
+<h3>Funktionalitet</h3>
+
+<!-- En lista som beskriver applikationens huvudsakliga funktioner -->
+<ul>
+    <li>Lista alla böcker</li>
+    <li>Skapa en ny bok</li>
+    <li>Visa detaljer om en bok</li>
+</ul>
+    <!-- Footer -->
+    @Html.Partial("_Footer")

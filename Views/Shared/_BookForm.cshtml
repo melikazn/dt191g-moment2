@@ -1,0 +1,43 @@
+@model bibliotek.Models.Book
+<!-- Formulär för att skapa eller redigera en bok -->
+<div class="form-group">
+    <label for="Title">Titel</label>
+    <input type="text" class="form-control" id="Title" name="Title" value="@Model?.Title" required />
+</div>
+
+<!-- Formgruppen för författare -->
+<div class="form-group">
+    <label for="Author">Författare</label>
+    <input type="text" class="form-control" id="Author" name="Author" value="@Model?.Author" required />
+</div>
+
+<!-- Formgruppen för Utgivningsår -->
+<div class="form-group">
+    <label for="Year">Utgivningsår</label>
+    <input type="number" class="form-control" id="Year" name="Year" value="@Model?.Year" required />
+</div>
+
+<!-- Formgruppen för genre -->
+<div class="form-group">
+    <label for="Genre">Genre</label>
+    <select class="form-control" id="Genre" name="Genre" required>
+        <option value="Drama" @(Model?.Genre == "Drama" ? "selected" : "")>Drama</option>
+        <option value="Klassik" @(Model?.Genre == "Klassik" ? "selected" : "")>Klassik</option>
+        <option value="Fiction" @(Model?.Genre == "Fiction" ? "selected" : "")>Fiction</option>
+        <option value="Annat" @(Model?.Genre == "Annat" ? "selected" : "")>Annat</option>
+    </select>
+</div>
+
+<!-- Formgruppen för favoritbok -->
+<div class="form-group">
+    <label for="IsFavorite">Är detta en favoritbok?</label>
+    <input type="checkbox" class="form-check-input" id="IsFavorite" name="IsFavorite" value="true" @(Model?.IsFavorite == true ? "checked" : "") />
+    <input type="hidden" name="IsFavorite" value="false" />
+</div>
+
+<!-- Formgruppen för läst bok -->
+<div class="form-group">
+    <label for="IsRead">Har du läst denna bok?</label>
+    <input type="checkbox" class="form-check-input" id="IsRead" name="IsRead" value="true" @(Model?.IsRead == true ? "checked" : "") />
+    <input type="hidden" name="IsRead" value="false" />
+</div>
