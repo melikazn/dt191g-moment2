@@ -12,7 +12,7 @@ namespace bibliotek.Controllers
         {
             // Skapar några exempelböcker
             new Book { Id = 1, Title = "1984", Author = "George Orwell", Year = 1949 },
-            new Book { Id = 2, Title = "To Kill a Mockingbird", Author = "Harper Lee" }
+            new Book { Id = 2, Title = "To Kill a Mockingbird", Author = "Harper Lee", Year=1960 }
         };
 
         // GET: Visa listan av böcker
